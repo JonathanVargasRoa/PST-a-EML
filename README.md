@@ -37,4 +37,9 @@ Imagenes
 
 
 ----
+  
+  ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+  
+----
+  
 usd80 - Jonathan Vargas Roa
