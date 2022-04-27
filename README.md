@@ -5,7 +5,7 @@
 
 
 
-Codigo 
+Scrip - desde la Terminal - Console
 
 sudo apt-get update
 sudo apt-get install readpst rename zip unzip
