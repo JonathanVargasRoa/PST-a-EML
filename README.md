@@ -29,7 +29,9 @@ cd -r pst-export.zip /mnt/d/
 ----
 Imagenes
  
-
+<p align="center">
+<img src= '1.bmp' width='200'/>
+</p align="center"
 
 
 ----
