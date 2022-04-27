@@ -17,7 +17,7 @@ Scrip - desde la Terminal - Console
 #ls
 #cd pst-export/
 #ls
-#cd 2021\ -\ jvargasr/
+#cd  -Directorio- 
 #ls
 
 #find . -type f ! -iname '*.eml' -exec rename 's/([0-9]+)$/$1.eml/' {} \;
