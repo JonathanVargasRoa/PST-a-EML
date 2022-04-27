@@ -7,6 +7,7 @@ Se realiza la conversión en la terminal Linux Ubuntu v.2022.1 de los formatos d
 
 Scrip - desde la Terminal - Console
 
+```
 #sudo apt-get update
 #sudo apt-get install readpst rename zip unzip
 
@@ -19,13 +20,13 @@ Scrip - desde la Terminal - Console
 #cd 2021\ -\ jvargasr/
 #ls
 
-
 #find . -type f ! -iname '*.eml' -exec rename 's/([0-9]+)$/$1.eml/' {} \;
 
 #zip -r pst-export.zip pst-export/
 
 #cd -r pst-export.zip /mnt/d/
 
+```
 ----
 Imagenes
  
