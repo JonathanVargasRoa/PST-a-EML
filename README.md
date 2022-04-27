@@ -25,3 +25,9 @@ find . -type f ! -iname '*.eml' -exec rename 's/([0-9]+)$/$1.eml/' {} \;
 zip -r pst-export.zip pst-export/
 
 cd -r pst-export.zip /mnt/d/
+
+
+
+
+
+usd80 - Jonathan Vargas Roa
