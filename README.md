@@ -32,6 +32,7 @@ Imagenes
 <p align="center">
 <img src= '1.bmp' width='400'/>
   <img src= '2.bmp' width='400'/>
+  img src= '3.bmp' width='400'/>
 </p align="center"
 
 
