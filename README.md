@@ -3,7 +3,7 @@
 
   Updated 3 minutes ago Se realiza la conversión en la terminal Linux Ubuntu v.2022.1 de los formatos de correo electrónico de la organización Microsoft, los archivos de datos cuya exención es PST, la cual es conformada por calendarios, bandejas de entrada, bandeja de salida etc,...
 
-
+----
 
 Scrip - desde la Terminal - Console
 
@@ -26,6 +26,9 @@ zip -r pst-export.zip pst-export/
 
 cd -r pst-export.zip /mnt/d/
 
+----
+Imagenes
+ 
 
 
 
