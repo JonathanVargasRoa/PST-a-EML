@@ -30,7 +30,8 @@ cd -r pst-export.zip /mnt/d/
 Imagenes
  
 <p align="center">
-<img src= '1.bmp' width='200'/>
+<img src= '1.bmp' width='400'/>
+  <img src= '2.bmp' width='400'/>
 </p align="center"
 
 
