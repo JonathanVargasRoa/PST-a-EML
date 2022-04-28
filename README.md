@@ -2,7 +2,7 @@
 
 
 Se realiza la conversión en la terminal Linux Ubuntu v.2022.1 de los formatos de correo electrónico de la organización Microsoft, los archivos de datos cuya exención es PST, la cual es conformada por calendarios, bandejas de entrada, bandeja de salida etc,... es exportada al formato standar EML.
-
+<h1>  <h1/>
 ----
 - Console
 
@@ -35,12 +35,12 @@ Se realiza la conversión en la terminal Linux Ubuntu v.2022.1 de los formatos d
  </p align="center"
 ----
 
- -Descripción
+ <h3> -Descripción <h3/>
   
  ¿Qué es un archivo EML?
   
 La extensión de archivo EML es un acrónimo de E-mail y creado por Microsoft Corporation. EML archivos se almacenan los mensajes de correo electrónico en formato de texto sin formato. Se utiliza en Outlook Express de Microsoft salvado mensajes de correo y de parte de los programas de mensajería de correo electrónico de Microsoft. La estructura de archivo EML es estándar y, normalmente, contiene la cabecera y el mensaje o el cuerpo principal. Dirección de correo electrónico del remitente y el receptor que incluye el tema, la hora y la fecha comprende la cabecera del archivo, y el cuerpo se detalla el mensaje mismo. Mensajes de correo electrónico también pueden indicar los archivos adjuntos y otros hipervínculos que el remitente ha pegado en el archivo EML. El cumplimiento de las normas para los encabezados de correo electrónico o también conocido como RFC 822, se permite archivos EML para ser utilizado con diversas aplicaciones, servidores y clientes de correo electrónico. Esto significa que los archivos EML se pueden ver sin restricciones por otros sistemas operativos y diferentes navegadores preferidos por los usuarios.
-  
+  <h3>  <h3/> 
  
   
   
