@@ -65,11 +65,11 @@ Exportar datos de tu cuenta de Outlook como archivo PST para liberar espacio de 
      <img src= '2.bmp' width='400'/>
      <img src= '3.bmp' width='400'/>
      <img src= '4.bmp' width='400'/>
-</p align="center"
+</p align="center">
 
 ----
   
-![Snake animation](https://github.com/JonathanVargasRoa/JonathanVargasRoa/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/JonathanVargasRoa/JonathanVargasRoa/blob/output/github-contribution-grid-snake.svg)
   
 ----
   
