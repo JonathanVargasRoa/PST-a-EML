@@ -9,20 +9,20 @@ Se realiza la conversión en la terminal Linux Ubuntu v.2022.1 de los formatos d
 ```
 #sudo apt-get update
 #sudo apt-get install readpst rename zip unzip
-
+```
 #mkdir pst-export
 #readpst -D -M -b -o pst-export archive.pst
-
+```
 #ls
 #cd pst-export/
 #ls
 #cd  -Directorio- 
 #ls
-
+```
 #find . -type f ! -iname '*.eml' -exec rename 's/([0-9]+)$/$1.eml/' {} \;
-
+```
 #zip -r pst-export.zip pst-export/
-
+```
 #cd -r pst-export.zip /mnt/d/
 
 ```
