@@ -2,7 +2,7 @@
 
 
 Se realiza la conversión en la terminal Linux Ubuntu v.2022.1 de los formatos de correo electrónico de la organización Microsoft, los archivos de datos cuya exención es PST, la cual es conformada por calendarios, bandejas de entrada, bandeja de salida etc,... es exportada al formato standar EML.
-<h1>  <h1/>
+
 ----
 - Console
 
